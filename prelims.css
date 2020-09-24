@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    background-color: #a9d7e9;
+    font-family: 'Playfair display', serif;
+    text-align: center;
+    display: inline-block;
+
+}
+div{
+    background-color: #f3f3f3;
+    border-radius: 10px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+label{
+
+}
+input{
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    border-style: groove;
+    border-color: gray;
+}
+input[type=submit]
+{
+    background-color: #6ba2ce;
+}
